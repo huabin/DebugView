@@ -47,6 +47,8 @@ This package just makes it as easy as possible to view the logs.
 
 - Click `bug` on the screen, and you will see all print logs.
 
+https://github.com/user-attachments/assets/c5046d9f-50ee-4455-99bf-df3767c34a8a
+
 ### LICENSE
 
 MIT, 2024-Present Bin Hua
